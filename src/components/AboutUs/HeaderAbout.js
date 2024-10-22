@@ -16,20 +16,20 @@ function HeaderAbout({ action }) {
                             <div className="col-lg-2 col-md-4 col-sm-5 col-6 order-1 order-sm-1">
                                 <div className="appie-logo-box">
                                     <Link href="/">
-                                        <img src='/assets/images/logo.png' alt="" />
+                                        <img src='/assets/images/logoDark.png' alt="" />
                                     </Link>
                                 </div>
                             </div>
                             <div className="col-lg-6 col-md-1 col-sm-1 order-3 order-sm-2">
-                                <div className="appie-header-main-menu">
+                                <div className="appie-header-main-menu appie-header-main-menu-kopa">
                                     <Navigation />
                                 </div>
                             </div>
                             <div className="col-lg-4  col-md-7 col-sm-6 col-6 order-2 order-sm-3">
                                 <div className="appie-btn-box text-right">
-                                    <a className="login-btn" href="#">
+                                    {/* <a className="login-btn" href="#">
                                         <i className="fal fa-user"></i> Login
-                                    </a>
+                                    </a> */}
                                     <a className="main-btn ml-30" href="#">
                                         Get Started
                                     </a>

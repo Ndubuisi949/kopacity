@@ -15,11 +15,91 @@ function FooterHomeOne({ className }) {
                                     </a>
                                 </div>
                                 <p>
-                                    Appie WordPress is theme is the last theme you will ever have.
+                                Where we Connect Corps Members with Quality Housing, Seamlessly and Stress-Free.
                                 </p>
-                                <a href="#">
+                                {/* <a href="#">
                                     Read More <i className="fal fa-arrow-right" />
-                                </a>
+                                </a> */}
+                                {/* <div className="social mt-30">
+                                    <ul>
+                                        <li>
+                                            <a href="#">
+                                                <i className="fab fa-facebook-f" />
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                <i className="fab fa-twitter" />
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                <i className="fab fa-pinterest-p" />
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                <i className="fab fa-linkedin-in" />
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div> */}
+                            </div>
+                        </div>
+                        <div className="col-lg-3 col-md-6">
+                            <div className="footer-navigation">
+                                <h4 className="title">Company</h4>
+                                <ul>
+                                    <li>
+                                        <Link href="/about-us">About Us</Link>
+                                    </li>
+                                    {/* <li>
+                                        <Link href="/Service">Service</Link>
+                                    </li>
+                                    <li>
+                                        <a href="#">Case Studies</a>
+                                    </li> */}
+                                    <li>
+                                        <Link href="/service">FAQs</Link>
+                                    </li>
+                                    <li>
+                                        <a href="#">Privacy Policy</a>
+                                    </li>
+                                    <li>
+                                        <Link href="/news">Blog</Link>
+                                    </li>
+                                    <li>
+                                        <Link href="/contact">Contact</Link>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        {/* <div className="col-lg-3 col-md-6">
+                            <div className="footer-navigation">
+                                <h4 className="title">Support</h4>
+                                <ul>
+                                    <li>
+                                        <Link href="/service">FAQs</Link>
+                                    </li>
+                                    <li>
+                                        <a href="#">Privacy Policy</a>
+                                    </li>
+                                    {/* <li>
+                                        <Link href="/about-us">Community</Link>
+                                    </li>
+                                    <li>
+                                        <a href="#">Resources</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Careers</a>
+                                    </li> 
+                                </ul>
+                            </div>
+                        </div> */}
+                        <div className="col-lg-2 col-md-6">
+                            <div className="footer-navigation">
+                                <h4 className="title">Support</h4>
+                                <div className="footer-about-widget footer-about-widget-kopa">
                                 <div className="social mt-30">
                                     <ul>
                                         <li>
@@ -45,49 +125,6 @@ function FooterHomeOne({ className }) {
                                     </ul>
                                 </div>
                             </div>
-                        </div>
-                        <div className="col-lg-2 col-md-6">
-                            <div className="footer-navigation">
-                                <h4 className="title">Company</h4>
-                                <ul>
-                                    <li>
-                                        <Link href="/about-us">About Us</Link>
-                                    </li>
-                                    <li>
-                                        <Link href="/Service">Service</Link>
-                                    </li>
-                                    <li>
-                                        <a href="#">Case Studies</a>
-                                    </li>
-                                    <li>
-                                        <Link href="/news">Blog</Link>
-                                    </li>
-                                    <li>
-                                        <Link href="/contact">Contact</Link>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div className="col-lg-3 col-md-6">
-                            <div className="footer-navigation">
-                                <h4 className="title">Support</h4>
-                                <ul>
-                                    <li>
-                                        <Link href="/about-us">Community</Link>
-                                    </li>
-                                    <li>
-                                        <a href="#">Resources</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Faqs</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Privacy Policy</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Careers</a>
-                                    </li>
-                                </ul>
                             </div>
                         </div>
                         <div className="col-lg-3 col-md-6">
@@ -96,7 +133,7 @@ function FooterHomeOne({ className }) {
                                 <ul>
                                     <li>
                                         <a href="#">
-                                            <i className="fal fa-envelope" /> support@appie.com
+                                            <i className="fal fa-envelope" /> hello@kopacity.com
                                         </a>
                                     </li>
                                     <li>
@@ -133,7 +170,7 @@ function FooterHomeOne({ className }) {
                                     </ul>
                                 </div>
                                 <div className="copyright-text">
-                                    <p>Copyright © 2021 Appie. All rights reserved.</p>
+                                    <p>Copyright © 2024 Kopacity. All rights reserved.</p>
                                 </div>
                             </div>
                         </div>

@@ -14,13 +14,13 @@ function ServicesHomeTwo({ className }) {
                                 </p>
                             </div>
                         </div>
-                        <div className="col-lg-6 col-md-4">
+                        {/* <div className="col-lg-6 col-md-4">
                             <div className="appie-section-title text-right">
                                 <a className="main-btn" href="#">
                                     View all Features <i className="fal fa-arrow-right" />
                                 </a>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                     <div className="row">
                         <div className="col-lg-4 col-md-6">
@@ -30,15 +30,15 @@ function ServicesHomeTwo({ className }) {
                                 data-wow-delay="200ms"
                             >
                                 <div className="icon">
-                                    <i className="fas fa-lock" />
+                                    <i className="	fa fa-shield" />
                                 </div>
                                 <h4 className="title">Browse Verified Listings</h4>
                                 <p>
                                 Search through a wide range of fully vetted homes – from furnished to unfurnished options.
                                 </p>
-                                <a href="#">
+                                {/* <a href="#">
                                     Read Mor <i className="fal fa-arrow-right" />
-                                </a>
+                                </a> */}
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6">
@@ -48,15 +48,15 @@ function ServicesHomeTwo({ className }) {
                                 data-wow-delay="400ms"
                             >
                                 <div className="icon">
-                                    <i className="fas fa-home" />
+                                    <i className="fas fa-store-alt" />
                                 </div>
                                 <h4 className="title">Marketplace for Items</h4>
                                 <p>
                                 Furnish your new home through our in-app marketplace, where you can buy and sell new or used household items.
                                 </p>
-                                <a href="#">
+                                {/* <a href="#">
                                     Read Mor <i className="fal fa-arrow-right" />
-                                </a>
+                                </a> */}
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6">
@@ -72,9 +72,9 @@ function ServicesHomeTwo({ className }) {
                                 <p>
                                 Looking to share a place and split the rent? Find fellow corps members through the app.
                                 </p>
-                                <a href="#">
+                                {/* <a href="#">
                                     Read Mor <i className="fal fa-arrow-right" />
-                                </a>
+                                </a> */}
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6">
@@ -90,9 +90,9 @@ function ServicesHomeTwo({ className }) {
                                 <p>
                                 Choose from flexible payment options, allowing you to pay rent securely and on time.
                                 </p>
-                                <a href="#">
+                                {/* <a href="#">
                                     Read Mor <i className="fal fa-arrow-right" />
-                                </a>
+                                </a> */}
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6">
@@ -102,15 +102,15 @@ function ServicesHomeTwo({ className }) {
                                 data-wow-delay="400ms"
                             >
                                 <div className="icon">
-                                <i className="fas fa-bolt" />
+                                <i className="fa fa-comments" />
                                 </div>
                                 <h4 className="title">In-App Messaging</h4>
                                 <p>
                                 Contact house owners or potential housemates directly through our secure messaging platform.
                                 </p>
-                                <a href="#">
+                                {/* <a href="#">
                                     Read Mor <i className="fal fa-arrow-right" />
-                                </a>
+                                </a> */}
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6">
@@ -120,15 +120,15 @@ function ServicesHomeTwo({ className }) {
                                 data-wow-delay="600ms"
                             >
                                 <div className="icon">
-                                <i className="fas fa-cog" />
+                                <i className="fa fa-mobile" />
                                 </div>
                                 <h4 className="title">User-Friendly Interface</h4>
                                 <p>
-                                Navigate the platform with ease, making your search for accommodation straightforward and efficient
+                                Navigate platform with ease, making your search for accommodation straightforward and effortless.
                                 </p>
-                                <a href="#">
+                                {/* <a href="#">
                                     Read More <i className="fal fa-arrow-right" />
-                                </a>
+                                </a> */}
                             </div>
                         </div>
                     </div>

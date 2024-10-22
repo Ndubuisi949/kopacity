@@ -12,7 +12,7 @@ function News() {
     const [drawer, drawerAction] = useToggle(false);
     return (
         <>
-            <Drawer drawer={drawer} action={drawerAction.toggle} />
+            <Drawer drawer={drawer} action={drawerAction.toggle} /> 
             <HeaderNews action={drawerAction.toggle} />
             <HeroNews
                 title="Blogs"

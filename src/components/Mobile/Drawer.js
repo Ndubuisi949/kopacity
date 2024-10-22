@@ -199,7 +199,7 @@ function Drawer({ drawer, action, lang }) {
                                                 <li>
                                                     <Link href="#">
                                                         <i className="fal fa-envelope"></i>{' '}
-                                                        support@appie.com
+                                                        Hello@kopacity.com
                                                     </Link>
                                                 </li>
                                                 <li>
@@ -248,7 +248,7 @@ function Drawer({ drawer, action, lang }) {
                                         </div>
                                         <div id="menu" className="text-left ">
                                             <ul className="offcanvas_main_menu">
-                                                <li
+                                                {/* <li
                                                     onClick={(e) => handler(e, 'home')}
                                                     id="home"
                                                     className="menu-item-has-children active"
@@ -295,14 +295,22 @@ function Drawer({ drawer, action, lang }) {
                                                             <Link href="/home-rtl">Home Rtl</Link>
                                                         </li>
                                                     </ul>
+                                                </li> */}
+                                                <li
+                                                    onClick={(e) => handler(e, 'service')}
+                                                    id="service"
+                                                    className="menu-item-has-children active"
+                                                >
+                                                    <Link href="/">Home</Link>
                                                 </li>
                                                 <li
                                                     onClick={(e) => handler(e, 'service')}
                                                     id="service"
                                                     className="menu-item-has-children active"
                                                 >
-                                                    <Link href="/service">Service</Link>
+                                                    <Link href="/about-us">About Us</Link>
                                                 </li>
+{/*                                                 
                                                 <li
                                                     onClick={(e) => handler(e, 'pages')}
                                                     id="pages"
@@ -365,6 +373,20 @@ function Drawer({ drawer, action, lang }) {
                                                             </Link>
                                                         </li>
                                                     </ul>
+                                                </li> */}
+                                                <li
+                                                    onClick={(e) => handler(e, 'contact')}
+                                                    id="contact"
+                                                    className="menu-item-has-children active"
+                                                >
+                                                    <Link href="/service">FAQs</Link>
+                                                </li>
+                                                <li
+                                                    onClick={(e) => handler(e, 'contact')}
+                                                    id="contact"
+                                                    className="menu-item-has-children active"
+                                                >
+                                                    <Link href="/news">Blogs</Link>
                                                 </li>
                                                 <li
                                                     onClick={(e) => handler(e, 'contact')}
@@ -404,7 +426,7 @@ function Drawer({ drawer, action, lang }) {
                                                 <li>
                                                     <Link href="#">
                                                         <i className="fal fa-envelope"></i>{' '}
-                                                        support@appie.com
+                                                        hello@kopacity.com
                                                     </Link>
                                                 </li>
                                                 <li>

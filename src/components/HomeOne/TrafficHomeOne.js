@@ -50,13 +50,13 @@ function TrafficHomeOne({ className }) {
                                     <p>Mucker plastered bugger all mate morish are.</p>
                                 </div>
                             </div>
-                            <div className="col-lg-12">
+                            {/* <div className="col-lg-12">
                                 <div className="traffic-btn mt-50">
                                     <a className="main-btn" href="#">
                                         Learn More <i className="fal fa-arrow-right" />
                                     </a>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>

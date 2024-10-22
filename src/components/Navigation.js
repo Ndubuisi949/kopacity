@@ -78,6 +78,7 @@ function Navigation({ lang = false }) {
                 </ul>
             ) : (
                 <ul>
+{/*                     
                     <li>
                         <a href="#">
                             Home <i className="fal fa-angle-down" />
@@ -114,15 +115,25 @@ function Navigation({ lang = false }) {
                                 <Link href="/home-rtl">Home Rtl</Link>
                             </li>
                         </ul>
+                    </li> */}
+
+                    <li>
+                        <Link href="/">Home</Link>
                     </li>
                     <li>
-                        <Link href="/service">Service</Link>
+                        {/* <Link href="/service">Service</Link> */}
+                        
+                        <Link href="/about-us">About us</Link>
                     </li>
-                    <li>
+
+                     {/*<li>
                         <a href="#">
                             Pages <i className="fal fa-angle-down" />
                         </a>
                         <ul className="sub-menu">
+                        <li>
+                        <Link href="/service">Service</Link>
+                            </li>
                             <li>
                                 <Link href="/about-us">About</Link>
                             </li>
@@ -146,12 +157,18 @@ function Navigation({ lang = false }) {
                         </a>
                         <ul className="sub-menu">
                             <li>
-                                <Link href="/news">News Page</Link>
+                                <Link href="/news">Blog</Link>
                             </li>
                             <li>
                                 <Link href="/news/single-news">Single News</Link>
                             </li>
                         </ul>
+                    </li> */}
+                    <li>
+                        <Link href="/service">FAQ</Link>
+                    </li>
+                    <li>
+                        <Link href="/news">Blog</Link>
                     </li>
                     <li>
                         <Link href="/contact">Contact</Link>

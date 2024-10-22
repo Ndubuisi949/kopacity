@@ -9,7 +9,7 @@ function TeamHomeOne({ className }) {
                         <div className="col-lg-12">
                             <div className="appie-section-title text-center">
                                 <h3 className="appie-title">Meet our Team Members</h3>
-                                <p>Different layouts and styles for team sections.</p>
+                                <p>We are here for You.</p>
                             </div>
                         </div>
                     </div>
@@ -21,7 +21,7 @@ function TeamHomeOne({ className }) {
                                 data-wow-delay="200ms"
                             >
                                 <div className="thumb">
-                                    <img src='/assets/images/team-1.jpg' alt="" />
+                                    <img src='/assets/images/team-2.png' alt="" />
                                     <ul>
                                         <li>
                                             <a href="#">
@@ -53,7 +53,7 @@ function TeamHomeOne({ className }) {
                                 data-wow-delay="400ms"
                             >
                                 <div className="thumb">
-                                    <img src='/assets/images/team-2.jpg' alt="" />
+                                    <img src='/assets/images/team-2.png' alt="" />
                                     <ul>
                                         <li>
                                             <a href="#">
@@ -85,7 +85,7 @@ function TeamHomeOne({ className }) {
                                 data-wow-delay="600ms"
                             >
                                 <div className="thumb">
-                                    <img src='/assets/images/team-3.jpg' alt="" />
+                                    <img src='/assets/images/team-2.png' alt="" />
                                     <ul>
                                         <li>
                                             <a href="#">
@@ -117,7 +117,7 @@ function TeamHomeOne({ className }) {
                                 data-wow-delay="800ms"
                             >
                                 <div className="thumb">
-                                    <img src='/assets/images/team-4.jpg' alt="" />
+                                    <img src='/assets/images/team-2.png' alt="" />
                                     <ul>
                                         <li>
                                             <a href="#">

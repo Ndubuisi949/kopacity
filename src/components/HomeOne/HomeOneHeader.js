@@ -17,9 +17,9 @@ function HomeOneHeader({
         StickyMenu();
     });
     return (
-        <header className={`appie-header-area appie-sticky ${className || ''}`}>
+        <header className={`appie-header-area appie-header-area-kopa appie-sticky ${className || ''}`}>
             <div className="container">
-                <div className="header-nav-box">
+                <div className="header-nav-box"> 
                     <div className="row align-items-center">
                         <div className="col-lg-2 col-md-4 col-sm-5 col-6 order-1 order-sm-1">
                             <div className="appie-logo-box">
@@ -97,9 +97,9 @@ function HomeOneHeader({
                                             LTR
                                         </span>
                                     ))}
-                                <a className="login-btn" href="#">
+                                {/* <a className="login-btn" href="#">
                                     <i className="fal fa-user" /> Login
-                                </a>
+                                </a> */}
                                 <a className="main-btn ml-30" href="#">
                                     Get Started
                                 </a>

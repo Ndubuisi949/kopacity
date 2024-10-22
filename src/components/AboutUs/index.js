@@ -1,7 +1,6 @@
 import React from 'react';
 import useToggle from '../../Hooks/useToggle';
 import BackToTop from '../BackToTop';
-import SignupHomeEight from '../HomeEight/SignupHomeEight';
 import FooterHomeOne from '../HomeOne/FooterHomeOne';
 import SponserHomeTwo from '../HomeTwo/SponserHomeTwo';
 import Drawer from '../Mobile/Drawer';
@@ -21,7 +20,6 @@ function AboutUs() {
             <ServicesAbout />
             <TeamAbout />
             <SponserHomeTwo />
-            <SignupHomeEight />
             <FooterHomeOne className="appie-footer-about-area" />
             <BackToTop />
         </>

@@ -22,7 +22,7 @@ function ServicesHomeOne({ className }) {
                             data-wow-delay="200ms"
                         >
                             <div className="icon">
-                                <img src='/assets/images/icon/1.png' alt="" />
+                                <img src='/assets/images/icon/download2.png' alt="" />
                                 <span>1</span>
                             </div>
                             <h4 className="appie-title">Download the app</h4>
@@ -36,11 +36,11 @@ function ServicesHomeOne({ className }) {
                             data-wow-delay="400ms"
                         >
                             <div className="icon">
-                                <img src='/assets/images/icon/2.png' alt="" />
+                                <img src='/assets/images/icon/user.png' alt="" className="kopa-img"/>
                                 <span>2</span>
                             </div>
                             <h4 className="appie-title">Sign up</h4>
-                            <p> Create your profile in minutes and start browsing.</p>
+                            <p> Create your profile in minutes and start browsing true all the futures.</p>
                         </div>
                     </div>
                     <div className="col-lg-3 col-md-6">
@@ -50,12 +50,12 @@ function ServicesHomeOne({ className }) {
                             data-wow-delay="600ms"
                         >
                             <div className="icon">
-                                <img src='/assets/images/icon/3.png' alt="" />
+                                <img src='/assets/images/icon/verified.png' alt="" />
                                 <span>3</span>
                             </div>
                             <h4 className="appie-title">
                             Verify your details</h4>
-                            <p>Click on the massage sent to your email to verify it. </p>
+                            <p>Click on the massage we sent to your email to verify all your details are correct. </p>
                         </div>
                     </div>
                     <div className="col-lg-3 col-md-6">
@@ -65,7 +65,7 @@ function ServicesHomeOne({ className }) {
                             data-wow-delay="800ms"
                         >
                             <div className="icon">
-                                <img src='/assets/images/icon/4.png' alt="" />
+                                <img src='/assets/images/icon/find2.png' alt="" className='kopa-img'/>
                                 <span>4</span>
                             </div>
                             <h4 className="appie-title">Find Your Home</h4>
@@ -75,7 +75,7 @@ function ServicesHomeOne({ className }) {
                 </div>
                     <div className="row">
                         <div className="col-lg-11">
-                            <div className="footer-copyright footer-servicesKopa align-items-center justify-content-between pt-35">
+                            <div className="footer-copyright footer-copyright-kopa footer-servicesKopa align-items-center justify-content-between pt-35">
                                 <div className="apps-download-btn">
                                     <ul>
                                         <li>

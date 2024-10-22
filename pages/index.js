@@ -5,7 +5,7 @@ import PageHead from "../src/components/Helper/PageHead";
 function Index() {
     return (
         <>
-            <PageHead/>
+            <PageHead title="Kopa City -  Connect Corps Members with Quality Housing, Seamlessly and Stress-Free."/>
             <HomeOne/>
         </>
 

@@ -9,7 +9,7 @@ function ServicesAbout() {
                         <div className="col-lg-6 col-md-8">
                             <div className="appie-section-title">
                                 <h3 className="appie-title">We’re driven by our values</h3>
-                                <p>The app provides design and digital marketing. </p>
+                                <p>Whether you are a corps member seeking a place to stay or a house owner offering rental properties, Kopacity provides the platform to make the connection happen. </p>
                             </div>
                         </div>
                     </div>
@@ -21,10 +21,10 @@ function ServicesAbout() {
                                 data-wow-delay="200ms"
                             >
                                 <div className="icon">
-                                    <i className="fal fa-tv"></i>
+                                    <i className="fa fa-home"></i>
                                 </div>
-                                <h4 className="title">Carefully designed</h4>
-                                <p>He lost his bottle loo don't get shirty with me ruddy.</p>
+                                <h4 className="title">Affordability</h4>
+                                <p> Provide cost-effective housing options that suit the budgets of corps members, ensuring access to affordable living spaces across Nigeria.</p>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6">
@@ -34,10 +34,10 @@ function ServicesAbout() {
                                 data-wow-delay="400ms"
                             >
                                 <div className="icon">
-                                    <i className="fal fa-code"></i>
+                                    <i className="fa fa-shield"></i>
                                 </div>
-                                <h4 className="title">Clean Modern Code</h4>
-                                <p>He lost his bottle loo don't get shirty with me ruddy.</p>
+                                <h4 className="title">Safety</h4>
+                                <p>Ensure that every home listed on the platform is verified and secure, offering corps members a safe place to live during their service year.</p>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6">
@@ -49,8 +49,8 @@ function ServicesAbout() {
                                 <div className="icon">
                                     <i className="fal fa-user-friends"></i>
                                 </div>
-                                <h4 className="title">User Interactive</h4>
-                                <p>He lost his bottle loo don't get shirty with me ruddy.</p>
+                                <h4 className="title">Convenience</h4>
+                                <p>Make finding and renting homes as easy as possible through user-friendly tools that allow for quick searches, flexible payments, and rent-splitting.</p>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6">
@@ -62,8 +62,8 @@ function ServicesAbout() {
                                 <div className="icon">
                                     <i className="fal fa-mobile"></i>
                                 </div>
-                                <h4 className="title">Choose a App</h4>
-                                <p>He lost his bottle loo don't get shirty with me ruddy.</p>
+                                <h4 className="title">Accessibility</h4>
+                                <p>Offer diverse housing options across various regions, giving corps members the freedom to find homes close to their place of primary assignment (PPA).</p>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6">
@@ -73,10 +73,10 @@ function ServicesAbout() {
                                 data-wow-delay="400ms"
                             >
                                 <div className="icon">
-                                    <i className="fal fa-retweet"></i>
+                                    <i className="fa fa-cubes"></i>
                                 </div>
-                                <h4 className="title">Seamless Sync</h4>
-                                <p>He lost his bottle loo don't get shirty with me ruddy.</p>
+                                <h4 className="title">Community Building</h4>
+                                <p>Foster a community where corps members can connect, share accommodations, and support each other, creating a sense of belonging during NYSC.</p>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6">
@@ -86,10 +86,10 @@ function ServicesAbout() {
                                 data-wow-delay="600ms"
                             >
                                 <div className="icon">
-                                    <i className="fal fa-bell"></i>
+                                    <i className="fa fa-check-circle"></i>
                                 </div>
-                                <h4 className="title">Notifications Settings</h4>
-                                <p>He lost his bottle loo don't get shirty with me ruddy.</p>
+                                <h4 className="title">Transparency</h4>
+                                <p>Promote clear communication and honest transactions between house owners and corps members, ensuring fair rental agreements and trust on both sides.</p>
                             </div>
                         </div>
                     </div>

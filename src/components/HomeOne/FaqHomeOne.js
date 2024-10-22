@@ -12,8 +12,8 @@ function FaqHomeOne({ className }) {
                     <div className="row">
                         <div className="col-lg-12">
                             <div className="appie-section-title text-center">
-                                <h3 className="appie-title">Frequently asked questions</h3>
-                                <p>Different layouts and styles for team sections.</p>
+                                <h3 className="appie-title"></h3>
+                                <p></p>
                             </div>
                         </div>
                     </div>
