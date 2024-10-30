@@ -43,6 +43,11 @@ img {
   max-width: 100%;
 }
 
+.kopaNyscPic {
+  width: 85%;
+  border-radius: 10px;
+}
+
 .kopa-img {
   padding: 15px;
 }

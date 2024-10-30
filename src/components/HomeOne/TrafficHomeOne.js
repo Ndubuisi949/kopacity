@@ -19,7 +19,7 @@ function TrafficHomeOne({ className }) {
                                     <div className="icon">
                                         <i className="fal fa-check" />
                                     </div>
-                                    <h5 className="title">Find Homes Faster</h5>
+                                    <h5 className="title">Find Apartment Faster</h5>
                                     <p>Browse thousands of verified listings across Nigeria, tailored for NYSC corps members.</p>
                                 </div>
                             </div>
@@ -63,10 +63,10 @@ function TrafficHomeOne({ className }) {
             </div>
             <div className="traffic-thumb ">
                 <img
-                    className="wow animated fadeInRight"
+                    className="wow animated fadeInRight kopaNyscPic"
                     data-wow-duration="2000ms"
                     data-wow-delay="200ms"
-                    src='/assets/images/hero-thumb-2.jpeg'
+                    src='/assets/images/hero-thumb-2.png'
                     alt=""
                 />
             </div>
